@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-vQ+vufDT7uNAvp22+vQbq\/QWp5GcWOF4hqj0sdTSznM=",
+      "hash": "sha256-+GhS07Gs29NUczDER2sNakzFKj+KFCXslvfDl3eY8M0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-2Oc1UktK9OaqRqaR2a3rin+G71+1q2zdZSI9mxrzeUY=",
+      "hash": "sha256-gXOMOOVmPPCps6lvd36q+QAYE4yxjQ2kRG+GNFl0SQU=",
       "url": "_framework\/Angor.Client.wasm"
     },
     {
-      "hash": "sha256-hH1UhnsiHnzts9FdOPj1MayZM0TaEl1zVG5ILDK97Qo=",
+      "hash": "sha256-83BTQ0cg3Yms4vK2ceJq0+lMYIc2heMJ+T6Qvkblazw=",
       "url": "_framework\/Angor.Shared.wasm"
     },
     {
@@ -85,7 +85,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "hash": "sha256-Q1vaaGms9ezi70Fl3QjUObEU\/ULmH0goTk4jm9a\/Kv8=",
+      "hash": "sha256-xxP2hIclLhBNFyOLUt702g1O0RB0\/TWozn+aFxvcMEg=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
@@ -297,7 +297,7 @@
       "url": "_framework\/System.Linq.Expressions.wasm"
     },
     {
-      "hash": "sha256-qvRWHtFiDjDWXDI\/mMXFb6RJp2dvSzrN4rH560BHdKQ=",
+      "hash": "sha256-4iIuHgYSaCv1JQB1OJJO7x\/wZQot8tyzOQE5a81sxaQ=",
       "url": "_framework\/System.Linq.wasm"
     },
     {
@@ -517,11 +517,11 @@
       "url": "Angor.Client.styles.css"
     },
     {
-      "hash": "sha256-VB1U6lq6ZQmTjWWK7jidvld+972Uhq3aBboI5EI6K2w=",
+      "hash": "sha256-LMHzm3OXqsxvWWJ7oy5z50aIafl+X7\/BRdWfSCwfweY=",
       "url": "assets\/css\/app.css"
     },
     {
-      "hash": "sha256-2065+QmlsYLmdHEf2Mbp3HKsjJ5cGXVwQAG2KWUpuOw=",
+      "hash": "sha256-tWZzlOL4zf\/WlOI35ntajd9b2lTHJY9c30crGu\/cUkI=",
       "url": "assets\/css\/dashboard.css"
     },
     {
@@ -577,7 +577,7 @@
       "url": "assets\/img\/mobile-installation-screenshot.png"
     },
     {
-      "hash": "sha256-lN9Y4U5JdNdnPHFvCN+wL4pR2cQJFqcsPDtoUdSKUDA=",
+      "hash": "sha256-nhAGYNiDG4bjhasDEqEoKg3Q1vvXB6vLreNvWKyk7BM=",
       "url": "assets\/img\/no-image.jpg"
     },
     {
@@ -629,5 +629,5 @@
       "url": "ServiceWorkerRegister.js"
     }
   ],
-  "version": "yulTUOt9"
+  "version": "NbVsXaCK"
 };
